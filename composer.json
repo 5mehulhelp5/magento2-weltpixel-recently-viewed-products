@@ -1,5 +1,5 @@
 {
-    "name": "weltpixel/magento2-recently-viewed-products",
+    "name": "weltpixel/magento2-weltpixel-recently-viewed-products",
     "description": "WeltPixel Advanced Recently Viewed Module",
     "require": {
         "magento/module-admin-notification": "*",

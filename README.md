@@ -1,4 +1,4 @@
-# magento2-recently-viewed-products
+# magento2-weltpixel-recently-viewed-products
 
 ### Installation
 
@@ -8,11 +8,11 @@ Dependencies:
 With composer:
 
 ```sh
-$ composer config repositories.welpixel-magento2-weltpixel-backend git https://github.com/Weltpixel/magento2-weltpixel-backend.git
+$ composer config repositories.weltpixel-magento2-weltpixel-backend git https://github.com/Weltpixel/magento2-weltpixel-backend.git
 $ composer require weltpixel/magento2-weltpixel-backend:dev-master
 
-$ composer config repositories.weltpixel-magento2-recently-viewed-products git https://github.com/Weltpixel/magento2-recently-viewed-products.git
-$ composer require weltpixel/magento2-recently-viewed-products:dev-master
+$ composer config repositories.weltpixel-magento2-weltpixel-recently-viewed-products git https://github.com/Weltpixel/magento2-weltpixel-recently-viewed-products.git
+$ composer require weltpixel/magento2-weltpixel-recently-viewed-products:dev-master
 ```
 
 Manually:
